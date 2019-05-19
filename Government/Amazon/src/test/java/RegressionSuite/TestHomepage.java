@@ -85,7 +85,7 @@ public class TestHomepage  extends Homepage {
         quitDriver();
     }
 
-    //-----------Testcase 4. Testing Jobs one the homepage and searchbox jobs  ----------
+    //-----------Testcase 4. Testing Signin Button Working  ----------
 
     @Test
     public void signInButtonTest(){
@@ -107,7 +107,7 @@ public class TestHomepage  extends Homepage {
 
 
 
-    //-----------Testcase 5. Testing if Debit or Credit card needs to be provided while creating profile ----------
+    //-----------Testcase 5. Testing Create Amazon Account ----------
 
     @Test
     public void createAmazonAccount() {
